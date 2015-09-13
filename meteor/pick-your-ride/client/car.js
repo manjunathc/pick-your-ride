@@ -23,13 +23,13 @@ Template.body.events({
     var trim= event.target.trim.value;
 
 //Insert Data in to Cars Mongo Collection
-    Cars.insetr({
-      vin: vin,
-      make: make,
-      model: model,
-      year: year,
-      createdAt: new Date()
-    });
+
+    Cars.insert({
+    "vin": vin,
+    "make": make,
+    "model": model,
+    "year": year,
+    "trim": trim})
     // Clear form
       event.target.vin.value = "";
         event.target.make.value = "";
