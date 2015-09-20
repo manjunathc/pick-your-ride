@@ -1,0 +1,13 @@
+<body>
+  <div class="car-form">
+  {{>carForm}}
+
+  </div>
+  <div class="car-data">
+    <ul>
+    {{ #each cars }}
+          {{ >car }}
+    {{ /each }}
+  </ul>
+  </div>
+</body>

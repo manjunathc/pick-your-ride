@@ -1,0 +1,21 @@
+{
+"vin": "JH4TB2H26CC000000",
+"make": "Honda",
+"model": "Accord",
+"year": 2016,
+"trim": "EX",
+"style": "2.4-liter4-cylinder CVT Automatic w/Navigation",
+"color": "Bellanova White Pearl",
+"interior": {
+    "color": "black",
+    "is_leather": "true"
+},
+"mileage": "20012",
+"engine_cylinder": "4",
+"transmission": "automatic",
+"body_style": "suv",
+"fuel_type": "gasoline",
+"drive_type": "AllWheelDrive",
+"doors": "FourDoor",
+"passanger": "5"
+}
