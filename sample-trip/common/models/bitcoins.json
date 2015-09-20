@@ -1,0 +1,23 @@
+{
+  "name": "bitcoins",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "BITCOIN_AMOUNT": {
+      "type": "number"
+    },
+    "TRANSACTION_DATE": {
+      "type": "date"
+    },
+    "VEHICLE_VIN": {
+      "type": "string"
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}

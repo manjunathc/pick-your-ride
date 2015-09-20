@@ -1,0 +1,20 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "trip": {
+    "name": "trip",
+    "connector": "memory",
+    "file": "trips.json"
+  },
+  "amount_received": {
+    "name": "amount_received",
+    "connector": "memory",
+    "file": "amount.json"
+  },
+  "BTC_CONVERSION": {
+    "name": "BTC_CONVERSION",
+    "connector": "memory"
+  }
+}

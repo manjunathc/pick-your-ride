@@ -1,0 +1,83 @@
+{
+  "name": "trip",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "start": {
+      "type": "date"
+    },
+    "stop": {
+      "type": "date"
+    },
+    "status": {
+      "type": "string"
+    },
+    "vehicleId": {
+      "type": "string"
+    },
+    "deviceId": {
+      "type": "string"
+    },
+    "averageLoad": {
+      "type": "number"
+    },
+    "averageMovingSpeed": {
+      "type": "number"
+    },
+    "averageSpeed": {
+      "type": "number"
+    },
+    "distance": {
+      "type": "number"
+    },
+    "distanceByGPS": {
+      "type": "number"
+    },
+    "distanceByVSS": {
+      "type": "number"
+    },
+    "duration": {
+      "type": "number"
+    },
+    "fuelConsumed": {
+      "type": "number"
+    },
+    "fuelEconomy": {
+      "type": "number"
+    },
+    "hardAccelCount": {
+      "type": "string"
+    },
+    "hardBrakeCount": {
+      "type": "number"
+    },
+    "locationCount": {
+      "type": "number"
+    },
+    "maxSpeed": {
+      "type": "number"
+    },
+    "stopCount": {
+      "type": "number"
+    },
+    "startPoint_longitude": {
+      "type": "number"
+    },
+    "startPoint_latitude": {
+      "type": "number"
+    },
+    "stopPoint_longitude": {
+      "type": "number"
+    },
+    "stopPoint_latitude": {
+      "type": "number"
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}

@@ -1,0 +1,23 @@
+{
+  "name": "amount",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "BTC_AMOUT": {
+      "type": "number"
+    },
+    "DOLLAR_AMOUNT": {
+      "type": "number"
+    },
+    "TIME_RECEIVED": {
+      "type": "date"
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}

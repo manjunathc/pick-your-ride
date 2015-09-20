@@ -1,0 +1,10 @@
+{
+  "ids": {
+    "amount": 2
+  },
+  "models": {
+    "amount": {
+      "1": "{\"BTC_AMOUT\":0.0035,\"DOLLAR_AMOUNT\":100,\"TIME_RECEIVED\":\"2015-09-17T08:55:13.000Z\",\"id\":1}"
+    }
+  }
+}
