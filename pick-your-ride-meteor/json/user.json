@@ -1,0 +1,15 @@
+{
+  "user_id": "manjunath.chintamani@gmail.com",
+  "given_name": "Manjunath",
+  "last_name": "Chintamani",
+  "drivers_license": "ca12345",
+  "image":"https://s.gravatar.com/avatar/41fc76449aea8ec3d5d1b7a0d0ee93af?s=80",
+  "phone_number":"+14085077457",
+  "payment": {
+    "card_number": "5555555555554444",
+    "card_type": "visa",
+    "card_ccv": "123",
+    "expMonth": "09",
+    "expYear":"2018"
+  }
+}

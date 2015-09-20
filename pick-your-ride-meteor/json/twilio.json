@@ -1,0 +1,7 @@
+{
+  "TWILIO": {
+    "FROM": "+16504698810", // One of the phone numbers tied to your Twilio account
+    "SID": "PN141a0759860524e29dd63935e4fe1710", // SID tied to your Twilio account
+    "TOKEN": "b6181f4f8343b57d8f9828e95286d25b" // Token tied to your Twilio account
+  }
+}

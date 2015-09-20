@@ -1,0 +1,13 @@
+{
+  "public": {
+    "TWILIO": {
+      "FROM": "+16504698810",
+      "SID": "ACa95035f362b19f3c504330656239d363",
+      "TOKEN": "b6181f4f8343b57d8f9828e95286d25b"
+    },
+    "SIMPLIFY": {
+      "PUBLIC_KEY": "sbpb_MmJlYmFmYmQtZTlhNy00MzAzLWFjYmEtMGI4NDJiZmI4ODE2",
+      "PRIVATE_KEY": "SPtg6I9+1Mp1IABd5bv6ipQJRalDK2O5sT2x8xrBuQp5YFFQL0ODSXAOkNtXTToq"
+    }
+  }
+}

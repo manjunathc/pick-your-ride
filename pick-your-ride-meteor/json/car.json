@@ -1,0 +1,92 @@
+[
+  {
+    "_id": "txMeFPTeTmtTEPtbp",
+    "vin": "PB117BPH34C730326",
+    "make": "Ford",
+    "model": "Escape",
+    "year": "2015",
+    "trim": "SE",
+    "email": "ford1@gmail.com"
+  },
+  {
+    "_id": "GkStTMs5GDShkpLj9",
+    "vin": "PB1273BHR34C73372",
+    "make": "Ford",
+    "model": "Fusion",
+    "year": "2015",
+    "trim": "Hybrid SE",
+    "email": "ford2@gmail.com"
+  },
+  {
+    "_id": "6tsZQZNR5dgiqcP9L",
+    "vin": "LS83JS7201JSH8272",
+    "make": "Ford",
+    "model": "Mustang",
+    "year": "2016",
+    "trim": "V6 Fastback",
+    "email": "ford3@gmail.com"
+  },
+  {
+    "_id": "Kwax4KKd3MCTtWphm",
+    "vin": "MSHS8210MSSH828X2",
+    "make": "Ford",
+    "model": "Edge",
+    "year": "2014",
+    "trim": "Titanium",
+    "email": "ford4@gmail.com"
+  },
+  {
+    "_id": "ojp4XTc4fH7nefDFa",
+    "vin": "JDJD7363636302029",
+    "make": "Ford",
+    "model": "TAURUS",
+    "year": "2015",
+    "trim": "Limited",
+    "email": "ford5@gmail.com"
+  },
+  {
+    "_id": "ZENokp7yf4eWf4uQw",
+    "vin": "HDH736363NDNDND63",
+    "make": "Ford",
+    "model": "Fiesta",
+    "year": "2015",
+    "trim": "ST",
+    "email": "ford6@gmail.com"
+  },
+  {
+    "_id": "4Q78sM3yiE87EutTW",
+    "vin": "GHDDH736635LSO234",
+    "make": "Ford",
+    "model": "Transit",
+    "year": "2016",
+    "trim": "Wagon XL",
+    "email": "ford7@gmail.com"
+  },
+  {
+    "_id": "6Br9MPo2uWvYdujsQ",
+    "vin": "536738SKSKKDKSNH6",
+    "make": "Ford",
+    "model": "Super Duty",
+    "year": "2014",
+    "trim": "F-350 XL",
+    "email": "ford8@gmail.com"
+  },
+  {
+    "_id": "cysK9t63fMdne62CY",
+    "vin": "5638NJYE60ENDGJUW",
+    "make": "Ford",
+    "model": "Focus Electric",
+    "year": "2016",
+    "trim": "ST",
+    "email": "ford9@gmail.com"
+  },
+  {
+    "_id": "NGCWsenoWBFiAyoit",
+    "vin": "3N3J37S0SNYD5NK22",
+    "make": "Ford",
+    "model": "Explorer",
+    "year": "2015",
+    "trim": "Limited",
+    "email": "ford10@gmail.com"
+  }
+]

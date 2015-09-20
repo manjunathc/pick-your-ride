@@ -1,0 +1,15 @@
+{
+  "user_id": "chetanyajain@gmail.com",
+  "given_name": "Chetanya",
+  "last_name": "Jain",
+  "drivers_license": "ca12345",
+  "image":"https://s.gravatar.com/avatar/e687ffc87198a989acf3e893ff4c768b?s=80",
+  "phone_number":"+14085077457",
+  "payment": {
+    "card_number": "5555555555554444",
+    "card_type": "MasterCard",
+    "card_ccv": "123",
+    "expMonth": "09",
+    "expYear":"2018"
+  }
+}

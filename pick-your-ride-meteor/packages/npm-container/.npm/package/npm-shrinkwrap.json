@@ -1,0 +1,86 @@
+{
+  "dependencies": {
+    "simplify-commerce": {
+      "version": "1.2.0",
+      "dependencies": {
+        "jws": {
+          "version": "0.2.2",
+          "dependencies": {
+            "tap": {
+              "version": "0.3.3",
+              "dependencies": {
+                "inherits": {
+                  "version": "1.0.0"
+                },
+                "yamlish": {
+                  "version": "0.0.5"
+                },
+                "slide": {
+                  "version": "1.1.6"
+                },
+                "runforcover": {
+                  "version": "0.0.2",
+                  "dependencies": {
+                    "bunker": {
+                      "version": "0.1.2",
+                      "dependencies": {
+                        "burrito": {
+                          "version": "0.2.12",
+                          "dependencies": {
+                            "traverse": {
+                              "version": "0.5.2"
+                            },
+                            "uglify-js": {
+                              "version": "1.1.1"
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "nopt": {
+                  "version": "2.2.1",
+                  "dependencies": {
+                    "abbrev": {
+                      "version": "1.0.7"
+                    }
+                  }
+                },
+                "mkdirp": {
+                  "version": "0.3.5"
+                },
+                "difflet": {
+                  "version": "0.2.6",
+                  "dependencies": {
+                    "traverse": {
+                      "version": "0.6.6"
+                    },
+                    "charm": {
+                      "version": "0.1.2"
+                    },
+                    "deep-is": {
+                      "version": "0.1.3"
+                    }
+                  }
+                },
+                "deep-equal": {
+                  "version": "0.0.0"
+                },
+                "buffer-equal": {
+                  "version": "0.0.1"
+                }
+              }
+            },
+            "base64url": {
+              "version": "0.0.3"
+            },
+            "jwa": {
+              "version": "0.0.1"
+            }
+          }
+        }
+      }
+    }
+  }
+}

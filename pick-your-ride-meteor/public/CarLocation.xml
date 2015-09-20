@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <item>
+            <x>-122.4503866</x>
+            <y>37.7757479</y>
+            <pin>https://s.gravatar.com/avatar/b9d5858f06a7c04be5bcf6560e037ca8?s=80</pin>
+            <image>https://s.gravatar.com/avatar/b9d5858f06a7c04be5bcf6560e037ca8?s=80</image>
+            <description>Ford Mustang 2016 V6 Fastback</description>
+            <guid>http://nba.com/1</guid>
+            <title>Ford Mustang</title>
+            <vin>LS83JS7201JSH8272</vin>
+            <price>$12.99/day</price>
+        </item>
+        <item>
+            <x>-122.40244</x>
+            <y>37.79939</y>
+            <pin>https://s.gravatar.com/avatar/173d649fc57c30f74809aca95637bbdb?s=80</pin>
+            <image>https://s.gravatar.com/avatar/173d649fc57c30f74809aca95637bbdb?s=80</image>
+            <description>Ford Fusion 2015 Hybride SE</description>
+            <guid>http://nba.com/2</guid>
+            <title>Ford Fusion</title>
+            <vin>PB1273BHR34C73372</vin>
+            <price>$10.99/day</price>
+        </item>
+        <item>
+            <x>-122.40042</x>
+            <y>37.78648</y>
+            <pin>https://s.gravatar.com/avatar/cf979ee585798fc43adc3a99d270fc96?s=80</pin>
+            <image>https://s.gravatar.com/avatar/cf979ee585798fc43adc3a99d270fc96?s=80</image>
+            <description>Ford Edge 2014 Titanium</description>
+            <guid>http://nba.com/3</guid>
+            <title>Ford Edge</title>
+            <vin>MSHS8210MSSH828X2</vin>
+            <price>$12.99/day</price>
+        </item>
+        <item>
+            <x>-122.40042</x>
+            <y>37.78648</y>
+            <pin>https://s.gravatar.com/avatar/8c0074708de6f03b9357e335556f7b2d?s=80</pin>
+            <image>https://s.gravatar.com/avatar/8c0074708de6f03b9357e335556f7b2d?s=80</image>
+            <description>Ford Tarus 2015 Limited</description>
+            <guid>http://nba.com/1</guid>
+            <title>Ford Tarus</title>
+            <vin>JDJD7363636302029</vin>
+            <price>$14.99/day</price>
+        </item>
+        <item>
+            <x>-122.40520</x>
+            <y>37.79494</y>
+            <pin>https://s.gravatar.com/avatar/14ab9d714328b27e350d29d70bb5d431?s=80</pin>
+            <image>https://s.gravatar.com/avatar/14ab9d714328b27e350d29d70bb5d431?s=80</image>
+            <description>Ford Escape 2015 SE</description>
+            <guid>http://nba.com/1</guid>
+            <title>Ford Escape</title>
+            <vin>PB117BPH34C730326</vin>
+            <price>$9.99/day</price>
+        </item>
+        <item>
+            <x>-122.40470</x>
+            <y>37.79214</y>
+            <pin>https://s.gravatar.com/avatar/5322b24b0a528c400a7dd120e9bd6083?s=80</pin>
+            <image>https://s.gravatar.com/avatar/5322b24b0a528c400a7dd120e9bd6083?s=80</image>
+            <description>Ford Fiesta 2015 ST</description>
+            <guid>http://nba.com/1</guid>
+            <title>Ford Fiesta</title>
+            <vin>HDH736363NDNDND63</vin>
+            <price>$7.99/day</price>
+        </item>
+        <item>
+            <x>-122.41323</x>
+            <y>37.77580</y>
+            <pin>https://s.gravatar.com/avatar/385593738a4b5324dc48e22ebd3aed25?s=80</pin>
+            <image>https://s.gravatar.com/avatar/385593738a4b5324dc48e22ebd3aed25?s=80</image>
+            <description>Ford transit 2015 Wagon SL</description>
+            <guid>http://nba.com/1</guid>
+            <title>Ford Transit</title>
+            <vin>GHDDH736635LSO234</vin>
+            <price>$14.99/day</price>
+        </item>
+        <item>
+            <x>-122.43274</x>
+            <y>37.78494</y>
+            <pin>https://s.gravatar.com/avatar/2ba5f53c0cfab7e2bd86c6bf242e2aa1?s=80</pin>
+            <image>https://s.gravatar.com/avatar/2ba5f53c0cfab7e2bd86c6bf242e2aa1?s=80</image>
+            <description>Ford Super Duty 2014 F-350 XL</description>
+            <guid>http://nba.com/1</guid>
+            <title>Ford Super Duty</title>
+            <vin>536738SKSKKDKSNH6</vin>
+            <price>$14.99/day</price>
+        </item>
+    </channel>
+</rss>
